@@ -44,7 +44,7 @@ Let this terminal window running.
 
 3. Open new terminal window. Make sure we are still in `hadoop_simple_simulation` folder. Run the following command to run a shell inside the docker container in which we can run Hive and HDFS commands:
 ```
-docker exec -it hive-server /bin/bash
+winpty docker exec -it hive-server bash
 ```
 
 4. Still inside the docker shell, create Hive database and empty table by running the following commands:
