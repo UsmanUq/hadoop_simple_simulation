@@ -1,2 +1,7 @@
-hdfs
-metastore-postgresql
+namenode 9870:50070
+
+datanode 9864:50075
+
+hive-server 10000:10000
+
+hive-metastore 9083:9083
