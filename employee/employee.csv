@@ -1,5 +1,10 @@
-1,Rudolf Bardin,30,cashier,100,New York,40000,5
-2,Rob Trask,22,driver,100,New York,50000,4
-3,Madie Nakamura,20,janitor,100,New York,30000,4
-4,Alesha Huntley,40,cashier,101,Los Angeles,40000,10
-5,Iva Moose,50,cashier,102,Phoenix,50000,20
+1,Rudolf Bardin,30,cashier,100,New York,40000,5,
+2,Rob Trask,22,driver,100,New York,50000,4,
+3,Madie Nakamura,20,janitor,100,New York,30000,4,
+4,Alesha Huntley,40,cashier,101,Los Angeles,40000,10,
+5,Iva Moose,50,cashier,102,Phoenix,50000,20,
+6,Olivia Brown,29,cashier,105,Seattle,41000,5,
+7,Noah Davis,33,driver,105,Seattle,54000,9,
+8,Ava Miller,24,janitor,106,Miami,32000,2,
+9,James Wilson,38,salesperson,106,Miami,47000,11,
+10,Isabella Moore,41,manager,107,Boston,85000,15,
